@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1353079083 source:d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\createprocess\main.cpp
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

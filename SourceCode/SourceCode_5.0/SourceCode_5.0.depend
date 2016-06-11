@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1352644738 source:d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1353096312 source:d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\main.cpp
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"sqlite3.h"
+
+1352644738 source:d:\oa\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1353037141 source:d:\oa\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\main.cpp
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"sqlite3.h"
+
+1352644833 d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\sqlite3.h
+	<stdarg.h>
+
+1352644833 d:\oa\dropbox\source code\c language\comic book\comicbook_4.3\sourcecode\sourcecode_5.0\sqlite3.h
+	<stdarg.h>
+
+1352644738 source:d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\01_source code\c language\comic book\comicbook_5.1\sourcecode\sourcecode_5.0\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1353096312 source:d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\01_source code\c language\comic book\comicbook_5.1\sourcecode\sourcecode_5.0\main.cpp
+	<conio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"sqlite3.h"
+
+1352644833 d:\07_¶³ºÝºô¸ôµwºÐ\dropbox\01_source code\c language\comic book\comicbook_5.1\sourcecode\sourcecode_5.0\sqlite3.h
+	<stdarg.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1352187964 source:h:\comicbook\comicbook_3.4.1\sourcecode\sourcecode_1.0\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

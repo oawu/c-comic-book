@@ -1,0 +1,281 @@
+﻿body {
+  margin : 0px;
+  text-align : center;
+	font-family:微軟正黑體;
+  overflow-y:scroll;
+}
+#Container {
+	position : relative;
+	margin : 0px auto;
+	width : 1256px;
+	text-align : center;
+  border: 1px solid Transparent;
+}
+#TopDiv{
+  margin:5px auto;
+  border: 1px solid Transparent;
+	width : 1254px;
+	font-family:微軟正黑體;
+	font-size:18px;
+  text-align:center;
+}
+#TopInfomation {
+  display:inline-block;
+	font-family:微軟正黑體;
+	font-size:18px;
+  height:40px;
+  line-height:40px;
+  text-align:right;
+  padding:0px 5px;
+  
+  border-width:1px;
+  border-style:solid;
+  border-color:Transparent;
+  border-right-color:#aaa;
+}
+#TopNowPic {
+  padding:0px 5px;
+  display:inline-block;
+	font-family:微軟正黑體;
+	font-size:18px;
+  height:40px;
+  line-height:40px;
+  
+  border-width:1px;
+  border-style:solid;
+  border-color:Transparent;
+  border-right-color:#aaa;
+}
+.TopButton {
+  border: 1px solid Transparent;
+  display:inline-block;
+  padding:0px 5px;
+  text-align:center;
+  width:60px;
+  top:0px;
+  left:0px;
+}
+#BottomDiv {
+  margin:auto;
+  border: 2px solid #aaa;
+	width : 1254px;position:fixed;
+  bottom: 0px;
+  background:#FFF;
+  height:42px;
+  line-height:42px;
+	-moz-border-radius:6px 6px 0px 0px;
+	-webkit-border-radius:6px 6px 0px 0px;
+  text-align:right;
+}
+#BootomInfo{
+  position:absolute;
+  top :0px;
+  left :0px;
+  
+  
+  padding:0px 5px;
+  display:inline-block;
+	font-family:微軟正黑體;
+	font-size:12px;
+  height:40px;
+  line-height:40px;
+  border:1px solid Transparent;
+}
+.BootomButton {
+  border: 1px solid Transparent;
+  display:inline-block;
+  padding:0px 5px;
+  text-align:center;
+  width:60px;
+  top:0px;
+  left:0px;
+}
+#MiddleDiv {
+	position : relative;
+  border: 1px solid Transparent;
+	width : 1254px;
+	text-align : center;
+  margin : 0px auto 50px auto;
+  padding:0px;
+  overflow:visible;
+  
+}
+#MenuRootDiv {
+  display:none;
+  position:absolute;
+  top:50px;
+  left:0px;
+	border: 1px solid #9fc9fa;
+  width:242px;
+  height:42px;
+	-moz-border-radius:0px 6px 6px 0px;
+	-webkit-border-radius:0px 6px 6px 0px;
+  background:Transparent url(../Icon/background_light_blue_1x150.png) 50% 50% repeat-x;
+}
+#MenuTitleDiv {
+	border: 1px solid Transparent;
+  position:absolute;
+  height:40px;
+  line-height:40px;
+  width:185px;
+  top:0px;
+  left:0px;
+  text-align:center;
+}
+#HideDiv {
+	border: 1px solid Transparent;
+  position:absolute;
+  height:40px;
+  line-height:40px;
+  width:50px;
+  top:0px;
+  left:187px;
+  text-align:center;
+  
+}
+#MenuListDiv {
+	border: 1px solid #9fc9fa;
+  position:absolute;
+  width:237px;
+  top:42px;
+  left:0px;
+  background:#fff;
+  
+  max-height:500px;
+  overflow-y:auto;
+  scrollbar-base-color:#9fc9fa;
+}
+#MenuTitle{
+	position : relative;
+	border: 1px solid Transparent;
+	font-family:微軟正黑體;
+	font-size:22px;
+  
+  width:170px;
+	margin:auto;
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.button {
+	position : relative;
+  padding:3px;
+	
+	border: 2px solid #feba1b;
+	margin:0px auto;
+	color:#f9bd6c;
+	font-family:微軟正黑體;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:none;
+	background:Transparent url(../Icon/pink_4_1x120.png) 50% 0% repeat-x;
+	
+	cursor:pointer;
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+
+.button:hover{
+	color:#eb6a1d;
+	background:Transparent url(../Icon/pink_4_1x120.png) 50% -30px repeat-x;
+	-moz-box-shadow:0px 0px 15px -1px #ffdd31;
+	-webkit-box-shadow:0px 0px 15px -1px #ffdd31;
+}
+.button:active{
+	color:#f59b36;
+	background:Transparent url(../Icon/pink_4_1x120.png) 50% -60px repeat-x;
+	-moz-box-shadow:0px 0px 20px 5px #ffdd31;
+	-webkit-box-shadow:0px 0px 20px 5px #ffdd31;
+}
+
+.Item {
+  margin:10px;
+  padding:5px;
+  
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  
+	background:Transparent url(../Icon/background_blue_1x300.png) 50% 5% repeat-x;
+  
+	border: 2px solid #9fc9fa;
+	cursor:pointer;
+	color:#094ea2;
+	font-weight:bold;
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+
+.Item:hover{
+	background:Transparent url(../Icon/background_blue_1x300.png) 50% 20% repeat-x;
+	-moz-box-shadow:0px 0px 15px -1px #9ec8fa;
+	-webkit-box-shadow:0px 0px 15px -1px #9ec8fa;
+}
+.Item:active{
+	color:#2d87f4;
+	background:Transparent url(../Icon/background_blue_1x300.png) 50% -150px repeat-x;
+	-moz-box-shadow:0px 0px 20px 5px #9ec8fa;
+	-webkit-box-shadow:0px 0px 20px 5px #9ec8fa;
+}
+.ItemSelect {
+
+	background:Transparent url(../Icon/background_blue_1x300.png) 50% -200px repeat-x;
+	
+	-moz-box-shadow:0px 0px 15px 1px #9ec8fa;
+	-webkit-box-shadow:0px 0px 15px 1px #9ec8fa;
+}
+
+
+
+
+.PrevButton, .NextButton{
+	position : relative;
+	
+	margin:0px auto;
+  padding:3px;
+  
+	font-family:微軟正黑體;
+	font-size:16px;
+	
+	text-decoration:none;
+	text-shadow: none;
+	text-transform: none;
+
+	cursor:pointer;
+	
+	border:2px solid #ccc;
+	color:#555;
+	
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(#EFEFEF));
+	background: -moz-linear-gradient(top, white, #EFEFEF);
+	-pie-background: linear-gradient(white, #EFEFEF);
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	
+}
+.PrevButton:hover, .NextButton:hover{
+	color:#333;
+	-moz-box-shadow:0px 0px 5px 0px #bbb;
+	-webkit-box-shadow:0px 0px 5px 0px #bbb;
+	box-shadow: #bbb 0px 0px 5px 0px;
+}
+.PrevButton:active, .NextButton:active{
+	color:#000;
+	background: #F6F6F6 -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EFEFEF), to(white));
+	background: -moz-linear-gradient(top, #EFEFEF, white);
+	-pie-background: linear-gradient(#EFEFEF, white);
+}
+#TempImage ,.NextLoadImage{
+	display : none;
+}
+#Image {
+	border : #aaaaaa 2px solid;
+	padding : 4px;
+	
+	-moz-box-shadow:5px 5px 3px -30px #808080 ;
+	-webkit-box-shadow:5px 5px 3px -30px #808080 ;
+	box-shadow: #808080 5px 5px 30px;
+}
